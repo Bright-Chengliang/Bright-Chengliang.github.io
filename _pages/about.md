@@ -121,10 +121,10 @@ My research interest mainly includes Robotics, Machine Learning, and Reinforceme
 - *2018.11* &ensp; [Second-Class Excellent Student Scholarship (Top 15%)](./honors/CSU-Second_Class_Scholarship-2018.11.jpg)
 
 # 🏅 Selected Honors
-- *2021.05* &ensp; [Outstanding Graduate of Central South University (Top 4%)](./honors/CSU-Outstanding_Graduate-2021.05.jpg)
-- *2021.05* &ensp; [Outstanding Graduate of Hunan Province (Top 3.5%)](./honors/Hunan_Province-Outstanding_Graduate-2021.05.jpg)
 - *2022.07* &ensp; [Outstanding Student Leader of University of Chinese Academy of Sciences](./honors/UCAS-Outstanding_student_leader-2022.07.jpg)
 - *2022.07* &ensp; [Three Good Student of University of Chinese Academy of Sciences](./honors/UCAS-Three_Good-2022.07.jpg)
+- *2021.05* &ensp; [Outstanding Graduate of Central South University (Top 4%)](./honors/CSU-Outstanding_Graduate-2021.05.jpg)
+- *2021.05* &ensp; [Outstanding Graduate of Hunan Province (Top 3.5%)](./honors/Hunan_Province-Outstanding_Graduate-2021.05.jpg)
 - *2020.12* &ensp; [Merit Student of Central South University](./honors/CSU-Merit_Student-2020.12.jpg)
 - *2019.12* &ensp; [Merit Student of Central South University](./honors/CSU-Merit_Student-2019.12.jpg)
 - *2019.01* &ensp; [Merit Student of Central South University](./honors/CSU-Merit_Student-2019.01.jpg)
