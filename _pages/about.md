@@ -28,10 +28,10 @@ My research interest mainly includes Robotics, Machine Learning, and Reinforceme
 
 - *2023.05*: One first-author paper is accepted by IEEE TIM (JCR Q1, IF-5.332)! 🎉
 - *2023.04*: One first-author paper is accepted by IEEE RCAR 2023! 🎉
-- *2022.06*: I have returned to [SIAT, CAS](https://english.siat.ac.cn/) to pursue research training for the second and third years of my graduate studies! 🔬
-- *2021.09*: I have finished my research assistant position at [SIAT, CAS](https://english.siat.ac.cn/) and have started a one-year intensive coursework for my graduate studies at [UCAS](https://english.ucas.ac.cn/) in Beijing! 👨‍🎓
-- *2021.05*: I am honored with the title of Outstanding Graduate of [CSU](https://en.csu.edu.cn/)! 👨‍🎓
-- *2021.05*: I am honored with the title of Outstanding Graduate of Hunan Province! 👨‍🎓
+- *2022.07*: I am honored with the title of Outstanding Student Leader of [UCAS](https://english.ucas.ac.cn/)! 🏅
+- *2022.07*: I am honored with the title of Three Good Student of [UCAS](https://english.ucas.ac.cn/)! 🏅
+- *2021.05*: I am honored with the title of Outstanding Graduate of [CSU](https://en.csu.edu.cn/)! 🏅
+- *2021.05*: I am honored with the title of Outstanding Graduate of Hunan Province! 🏅
 - *2021.03*: I have joined [SIAT, CAS](https://english.siat.ac.cn/) as a research assistant and will spend my final undergraduate year here! 🔬
 - *2020.12*: I am awarded a Shanhe Elite First-class Education Scholarship (10, 000 CNY)! 🏆
 - *2020.11*: I am awarded a [CSU](https://en.csu.edu.cn/) Second-Class Excellent Student Scholarship (Top 15%)! 🏆
