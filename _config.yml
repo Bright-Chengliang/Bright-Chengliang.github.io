@@ -9,7 +9,7 @@
 title                    : "Chengliang Liu"
 description              : "M.Sc. student @ UCAS. <br/>
                             Doing research @ SIAT, CAS. <br/>
-                            Focusing on Robotics and ML, especially Dexterous Grasping, Visual and Tactile Sensing.
+                            Focusing on Robotics and ML, especially Multimodal Fusion and Dexterous Grasping.
                             "
 repository               : "Bright-Chengliang/Liu.github.io"
 google_scholar_stats_use_cdn : true
@@ -31,7 +31,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Ic4yrzQAAAAJ"
-  email            : "liuchengliang21@mails.ucas.edu.cn"
+  email            : "cl.liu1@siat.ac.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
