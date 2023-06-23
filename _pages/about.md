@@ -65,7 +65,7 @@ My research interest mainly includes Robotics, Machine Learning, Multimodal Fusi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RCAR 2023</div><img src='images/MoCo-Gelsight.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Self-supervised Contrastive Learning Method for Grasp Outcomes Prediction]()(First-author)
+[A Self-supervised Contrastive Learning Method for Grasp Outcomes Prediction]()(First-author, Accepted)
 
 **Chengliang Liu**, Binhua Huang, Yiwen Liu, Yuanzhe Su, Ke Mai, Yupo Zhang, Zhengkun Yi, Xinyu Wu
 
