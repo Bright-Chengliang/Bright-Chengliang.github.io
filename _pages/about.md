@@ -26,7 +26,7 @@ My research interest mainly includes Robotics, Machine Learning, especially Cont
 
 # 🔥 News
 
-- *2023.05*: One first-author paper is accepted by IEEE TIM (JCR Q1, IF-5.332)! 🎉
+- *2023.05*: One first-author paper is accepted by IEEE TIM (JCR Q1, IF-5.6)! 🎉
 - *2023.04*: One first-author paper is accepted by IEEE RCAR 2023! 🎉
 - *2022.07*: I am honored with the title of Outstanding Student Leader of [UCAS](https://english.ucas.ac.cn/) (Top 5%)! 🏅
 - *2022.07*: I am honored with the title of Three Good Student of [UCAS](https://english.ucas.ac.cn/) (Top 15%)! 🏅
@@ -46,7 +46,7 @@ My research interest mainly includes Robotics, Machine Learning, especially Cont
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='images/Triplet-SA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Deep Learning Method Based on Triplet Network Using Self-Attention for Tactile Grasp Outcomes Prediction](https://ieeexplore.ieee.org/document/10152475)(First-author, JCR Q1, IF-5.332)
+[A Deep Learning Method Based on Triplet Network Using Self-Attention for Tactile Grasp Outcomes Prediction](https://ieeexplore.ieee.org/document/10152475)(First-author, JCR Q1, IF-5.6)
 
 **Chengliang Liu**, Zhengkun Yi, Binhua Huang, Zhenning Zhou, Senlin Fang, Xiaoyu Li, Yupo Zhang, Xinyu Wu.
 
@@ -80,7 +80,7 @@ My research interest mainly includes Robotics, Machine Learning, especially Cont
 
 ## 🔎 Other
 
-- [Methods to Recognize Depth of Hard Inclusions in Soft Tissue Using Ordinal Classification for Robotic Palpation](https://ieeexplore.ieee.org/document/9856694), Zhenning Zhou, Binhua Huang, Runzhi Zhang, Meng Yin, **Chengliang Liu**, Yiwen Liu, Zhengkun Yi, Xinyu Wu, IEEE Transactions on Instrumentation and Measurement (TIM, JCR Q1, IF-5.332), 2022
+- [Methods to Recognize Depth of Hard Inclusions in Soft Tissue Using Ordinal Classification for Robotic Palpation](https://ieeexplore.ieee.org/document/9856694), Zhenning Zhou, Binhua Huang, Runzhi Zhang, Meng Yin, **Chengliang Liu**, Yiwen Liu, Zhengkun Yi, Xinyu Wu, IEEE Transactions on Instrumentation and Measurement (TIM, JCR Q1, IF-5.6), 2022
 - [TactCapsNet: Tactile Capsule Network for Object Hardness Recognition](https://ieeexplore.ieee.org/document/9517551), Senlin Fang, Tingting Mi, Zhenning Zhou, Chaoxiang Ye, **Chengliang Liu**, Hancheng Wu, Zhengkun Yi, Xinyu Wu, 2021 IEEE International Conference on Real-time Computing and Robotics (RCAR)
 - [Tactile Grasp Stability Classification Based on Graph Convolutional Networks](https://ieeexplore.ieee.org/document/9517085), Tingting Mi, Dashun Que, Senlin Fang, Zhenning Zhou, Chaoxiang Ye, **Chengliang Liu**, Zhengkun Yi, Xinyu Wu, 2021 IEEE International Conference on Real-time Computing and Robotics (RCAR)
 - [TGCN-P: A TCN-GCN Network With Weighted Graph Constructed by Pearson Correlation Coefficient for Human Motion Tracking](), Xiaoyu Li, Jingnan Wang, Binhua Huang, **ChengLiang Liu**, Yiwen Liu, Yupo Zhang, Zhengkun Yi, Xinyu Wu, 2023 IEEE International Conference on Real-time Computing and Robotics (RCAR, ACCEPTED)
