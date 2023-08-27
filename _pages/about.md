@@ -52,10 +52,10 @@ My research interest mainly includes Robotics, Machine Learning, especially Cont
 
 **<font color=red>IEEE Transactions on Instrumentation and Measurement</font>** 
 
-- This work focuses on grasp outcome prediction using a limited Gelsight-based tactile dataset.
-- We employ an interaction attention mechanism to utilize the context information from different Gelsight sensors, improving embedding quality and enhancing grasp outcome prediction performance.
-- We explore the incorporation of a self-attention module as a non-linear projection head, which contributes to improvements in accuracy, precision, and F-score metrics for grasp outcome prediction.
-- Extensive experimental results validate the effectiveness of our proposed network, and ablation studies confirm the efficacy of the aforementioned improvements.
+- Investigate contrastive learning using triplet loss in a supervised manner for grasp outcome prediction in a small Gelsight-based tactile dataset.
+- Integrate cross self-attention mechanisms with triplet net to exploit context information from different sensors.
+- Found that a self-attention module can work as a non-linear projection head for contrastive learning, which performs better than a simple MLP.
+- The experimental results demonstrate significant performance improvements in various metrics when using our framework, compared to the original method.
 
 </div>
 </div>
@@ -71,9 +71,9 @@ My research interest mainly includes Robotics, Machine Learning, especially Cont
 
 **<font color=red>2023 IEEE International Conference on Real-time Computing and Robotics</font>** 
 
-- This work focuses on the grasp outcome prediction task by employing self-supervised contrastive learning methods, utilizing Gelsight-based tactile datasets.
-- Inspired by simCLR, we explore the transferability of its data augmentation techniques to a Gelsight-based tactile dataset, and propose a contrastive learning network framework based on MoCo for grasp outcome prediction. Moreover, we compare the performance of various self-supervised learning methods within this context.
-- The experimental results demonstrate the effectiveness of simCLR's data augmentation techniques on Gelsight-based tactile datasets, and reveal that our proposed framework outperforms other self-supervised learning methods in this domain.
+- Explore and verify the transferability of widely-applied data augmentation techniques in the field of Computer Vision to Gelsight-based tactile datasets.
+- A grasp outcome prediction network was proposed based on momentum contrast with the maintenance of a large dictionary, which achieves 81.83\% predictive accuracy with a single tactile sensor data.
+- The experimental results show that the proposed network achieved state-of-the-art performance compared to three other self-supervised methods.
 
 </div>
 </div>
