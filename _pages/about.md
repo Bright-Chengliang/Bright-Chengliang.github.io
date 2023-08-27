@@ -72,7 +72,7 @@ My research interest mainly includes Robotics, Machine Learning, especially Cont
 **<font color=red>2023 IEEE International Conference on Real-time Computing and Robotics</font>** 
 
 - Explore and verify the transferability of widely-applied data augmentation techniques in the field of Computer Vision to Gelsight-based tactile datasets.
-- A grasp outcome prediction network was proposed based on momentum contrast with the maintenance of a large dictionary, which achieves 81.83\% predictive accuracy with a single tactile sensor data.
+- A grasp outcome prediction network was proposed based on momentum contrast with the maintenance of a large dictionary, which achieves 81.83% predictive accuracy with a single tactile sensor data.
 - The experimental results show that the proposed network achieved state-of-the-art performance compared to three other self-supervised methods.
 
 </div>
