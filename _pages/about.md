@@ -23,7 +23,7 @@ My research interest mainly includes Robotics, Machine Learning, especially Cont
 
 
 > 📢📢📢 <font color=red>I am looking for a Ph.D. position (2024 Fall).</font> If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:cl.liu99@foxmail.com). 😊. [Click here to view my resume](./LCL_Resume_9.19(latest).pdf).
-<object data="./LCL_Resume_9.19(latest).pdf" width="1000" height="1000" type='application/pdf'/>
+
 # 🔥 News
 
 - *2023.05*: One first-author paper is accepted by IEEE TIM (JCR Q1, IF-5.6)! 🎉
