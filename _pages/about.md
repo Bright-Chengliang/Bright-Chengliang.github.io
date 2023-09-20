@@ -21,8 +21,8 @@ I graduated from School of Mechanical and Electrical Engineering, [Central South
 
 My research interest mainly includes Robotics, Machine Learning, especially Contrastive Learning, and Reinforcement Learning. Currently, my main focus is on investigating the Dexterous Grasping and Contrastive Learning and exploring their applications in various fields. The goal of my work is to improve the performance of robots in real-world situations by harnessing the potential of deep learning, reinforcement learning and integrating visual and tactile sensory information.
 
+<object data="./LCL_Resume_9.19(latest).pdf" width="1000" height="1000" type='application/pdf'/>
 > 📢📢📢 <font color=red>I am looking for a Ph.D. position (2024 Fall).</font> If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:cl.liu99@foxmail.com). 😊. [Click here to view my resume](./LCL_Resume_9.19(latest).pdf).
-
 
 # 🔥 News
 
