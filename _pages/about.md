@@ -65,7 +65,7 @@ My research interest mainly includes Robotics, Machine Learning, especially Cont
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RCAR 2023</div><img src='images/MoCo-Gelsight.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Self-supervised Contrastive Learning Method for Grasp Outcomes Prediction](https://arxiv.org/abs/2306.14437)(First-author)
+[A Self-supervised Contrastive Learning Method for Grasp Outcomes Prediction](https://ieeexplore.ieee.org/document/10249649)(First-author)
 
 **Chengliang Liu**, Binhua Huang, Yiwen Liu, Yuanzhe Su, Ke Mai, Yupo Zhang, Zhengkun Yi, Xinyu Wu
 
@@ -81,9 +81,9 @@ My research interest mainly includes Robotics, Machine Learning, especially Cont
 ## 🔎 Other
 
 - Probabilistic Spiking Neural Network for Robotic Tactile Continual Learning, Senlin Fang, Yiwen Liu, **Chengliang Liu**, Jingnan Wang, Yuanzhe Su, Yupo Zhang, Hoiio Kong, Zhengkun Yi, Xinyu Wu, 2024 IEEE International Conference on Robotics and Automation (ICRA, under review)
-- [Evaluation of Continual Learning Methods for Object Hardness Recognition](), Yiwen Liu, Senlin Fang, **ChengLiang Liu**, Jingnan Wang, Ke Mai, Yupo Zhang, Zhengkun Yi, Xin yu Wu, 2023 IEEE International Conference on Real-time Computing and Robotics (RCAR)
-- [Attention-enhanced BLSTM Network for Liquid Volume Estimation based on Tactile Sensing](), Yuanzhe Su, Jingnan Wang, Binhua Huang, Xiaoyu Li, Yiwen Liu, **ChengLiang Liu**, Zhenning Zhou, Zhengkun Yi, Xinyu Wu, 2023 IEEE International Conference on Real-time Computing and Robotics (RCAR)
-- [TGCN-P: A TCN-GCN Network With Weighted Graph Constructed by Pearson Correlation Coefficient for Human Motion Tracking](), Xiaoyu Li, Jingnan Wang, Binhua Huang, **ChengLiang Liu**, Yiwen Liu, Yupo Zhang, Zhengkun Yi, Xinyu Wu, 2023 IEEE International Conference on Real-time Computing and Robotics (RCAR)
+- [Evaluation of Continual Learning Methods for Object Hardness Recognition](https://ieeexplore.ieee.org/document/10249594), Yiwen Liu, Senlin Fang, **ChengLiang Liu**, Jingnan Wang, Ke Mai, Yupo Zhang, Zhengkun Yi, Xin yu Wu, 2023 IEEE International Conference on Real-time Computing and Robotics (RCAR)
+- [Attention-enhanced BLSTM Network for Liquid Volume Estimation based on Tactile Sensing](https://ieeexplore.ieee.org/document/10250000/), Yuanzhe Su, Jingnan Wang, Binhua Huang, Xiaoyu Li, Yiwen Liu, **ChengLiang Liu**, Zhenning Zhou, Zhengkun Yi, Xinyu Wu, 2023 IEEE International Conference on Real-time Computing and Robotics (RCAR)
+- [TGCN-P: A TCN-GCN Network With Weighted Graph Constructed by Pearson Correlation Coefficient for Human Motion Tracking](https://ieeexplore.ieee.org/document/10249259/), Xiaoyu Li, Jingnan Wang, Binhua Huang, **ChengLiang Liu**, Yiwen Liu, Yupo Zhang, Zhengkun Yi, Xinyu Wu, 2023 IEEE International Conference on Real-time Computing and Robotics (RCAR)
 - [Methods to Recognize Depth of Hard Inclusions in Soft Tissue Using Ordinal Classification for Robotic Palpation](https://ieeexplore.ieee.org/document/9856694), Zhenning Zhou, Binhua Huang, Runzhi Zhang, Meng Yin, **Chengliang Liu**, Yiwen Liu, Zhengkun Yi, Xinyu Wu, IEEE Transactions on Instrumentation and Measurement (TIM, JCR Q1, IF-5.6), 2022
 - [TactCapsNet: Tactile Capsule Network for Object Hardness Recognition](https://ieeexplore.ieee.org/document/9517551), Senlin Fang, Tingting Mi, Zhenning Zhou, Chaoxiang Ye, **Chengliang Liu**, Hancheng Wu, Zhengkun Yi, Xinyu Wu, 2021 IEEE International Conference on Real-time Computing and Robotics (RCAR)
 - [Tactile Grasp Stability Classification Based on Graph Convolutional Networks](https://ieeexplore.ieee.org/document/9517085), Tingting Mi, Dashun Que, Senlin Fang, Zhenning Zhou, Chaoxiang Ye, **Chengliang Liu**, Zhengkun Yi, Xinyu Wu, 2021 IEEE International Conference on Real-time Computing and Robotics (RCAR)
