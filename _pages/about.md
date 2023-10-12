@@ -114,6 +114,7 @@ My research interest mainly includes Robotics, Machine Learning, especially Cont
 </div>
 
 # 🏆 Selected Awards
+- *2021 - 2024* &ensp; National Postgraduate Scholarship (Top 1.67%, 20, 000 CNY, Candidate)
 - *2021 - 2024* &ensp; UCAS Postgraduate Fellowship (Full Tuition Waiver & 8,000 CNY p.a.)
 - *2020.12* &ensp; [Shanhe Elite First-class Education Scholarship (10,000 CNY)](./honors/Shanhe_Elite-Scholarship-2020.12.06.jpg)
 - *2020.11* &ensp; [Second-Class Excellent Student Scholarship (Top 15%)](./honors/CSU-Second_Class_Scholarship-2020.11.jpg)
