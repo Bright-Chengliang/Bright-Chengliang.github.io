@@ -26,7 +26,7 @@ My research interest mainly includes Robotics, Machine Learning, especially Cont
 
 # 🔥 News
 
-- *2023.10*: I am nominated as a candidate for the National Postgraduate Scholarship (Top 1.67%, 20, 000 CNY)! 🏆
+- *2023.10*: I am recommended to be awarded a China postgraduate national scholarship (Top 1.67%, 20, 000 CNY)! 🏆
 - *2023.05*: One first-author paper is accepted by IEEE TIM (JCR Q1, IF-5.6)! 🎉
 - *2023.04*: One first-author paper is accepted by IEEE RCAR 2023! 🎉
 - *2022.07*: I am honored with the title of Outstanding Student Leader of [UCAS](https://english.ucas.ac.cn/) (Top 5%)! 🏅
@@ -114,7 +114,7 @@ My research interest mainly includes Robotics, Machine Learning, especially Cont
 </div>
 
 # 🏆 Selected Awards
-- *2023.10* &ensp; National Postgraduate Scholarship ([Candidate](./honors/National_Postgraduate_Scholarship_Candidate.png), Top 1.67%, 20, 000 CNY)
+- *2023.10* &ensp; China postgraduate national scholarship (Top 1.67%, 20, 000 CNY)
 - *2021 - 2024* &ensp; UCAS Postgraduate Fellowship (Full Tuition Waiver & 8,000 CNY p.a.)
 - *2020.12* &ensp; [Shanhe Elite First-class Education Scholarship (10,000 CNY)](./honors/Shanhe_Elite-Scholarship-2020.12.06.jpg)
 - *2020.11* &ensp; [Second-Class Excellent Student Scholarship (Top 15%)](./honors/CSU-Second_Class_Scholarship-2020.11.jpg)
