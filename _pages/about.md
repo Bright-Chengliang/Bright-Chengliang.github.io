@@ -21,9 +21,6 @@ I graduated from School of Mechanical and Electrical Engineering, [Central South
 .
 My research interest mainly includes Robotics, Machine Learning, especially Contrastive Learning, and Reinforcement Learning. Currently, my main focus is on investigating the Dexterous Grasping and Contrastive Learning and exploring their applications in various fields. The goal of my work is to improve the performance of robots in real-world situations by harnessing the potential of deep learning, reinforcement learning and integrating visual and tactile sensory information.
 
-
-> 📢📢📢 [VIEW MY CV](_pages/Bright_Resume_11_08_latest.pdf). <font color=red>I am looking for a Ph.D. position (2024 Fall).</font> If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:cl.liu99@foxmail.com). 😊
-
 # 🔥 News
 
 - *2023.10*: I am awarded a China postgraduate national scholarship (Top 1.67%, 20, 000 CNY)! 🏆
@@ -114,6 +111,7 @@ My research interest mainly includes Robotics, Machine Learning, especially Cont
 </div>
 
 # 🏆 Selected Awards
+- *2024.02* &ensp; SIAT President’s Special Scholarship
 - *2023.10* &ensp; China postgraduate national scholarship (Top 1.67%, 20, 000 CNY)
 - *2021 - 2024* &ensp; UCAS Postgraduate Fellowship (Full Tuition Waiver & 8,000 CNY p.a.)
 - *2020.12* &ensp; [Shanhe Elite First-class Education Scholarship (10,000 CNY)](./honors/Shanhe_Elite-Scholarship-2020.12.06.jpg)
