@@ -22,7 +22,7 @@ I graduated from School of Mechanical and Electrical Engineering, [Central South
 My research interest mainly includes Robotics, Machine Learning, especially Contrastive Learning, and Reinforcement Learning. Currently, my main focus is on investigating the Dexterous Grasping and Contrastive Learning and exploring their applications in various fields. The goal of my work is to improve the performance of robots in real-world situations by harnessing the potential of deep learning, reinforcement learning and integrating visual and tactile sensory information.
 
 # 🔥 News
-
+- *2024.01*: One co-author paper is accepted by IEEE ICRA 2024! 🎉
 - *2023.10*: I am awarded a China postgraduate national scholarship (Top 1.67%, 20, 000 CNY)! 🏆
 - *2023.05*: One first-author paper is accepted by IEEE TIM (JCR Q1, IF-5.6)! 🎉
 - *2023.04*: One first-author paper is accepted by IEEE RCAR 2023! 🎉
