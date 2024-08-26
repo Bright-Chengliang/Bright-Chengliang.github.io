@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Chengliang Liu"
-description              : "M.Sc. student @ UCAS. <br/>
-                            Doing research @ SIAT, CAS. <br/>
-                            Focusing on Robotics and ML, especially Dexterous Grasping and Contrastive Learning.
+description              : "Ph.D. student @ PolyU. <br/>
+                            Doing research @ COMP, PolyU. <br/>
+                            Focusing on RAG on graphs, LLM.
                             "
 repository               : "Bright-Chengliang/Liu.github.io"
 google_scholar_stats_use_cdn : true
@@ -26,12 +26,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chengliang Liu <br/> 柳程亮"
   avatar           : "images/profile.jpg"
-  bio              : "UCAS & SIAT, CAS"
-  location         : "Shenzhen, China"
+  bio              : "COMP, PolyU"
+  location         : "HongKong, China"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Ic4yrzQAAAAJ"
-  email            : "cl.liu1@siat.ac.cn"
+  email            : "cl.liu99@foxmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
