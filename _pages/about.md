@@ -23,6 +23,7 @@ I am currently a Ph.D. student at the [Department of Computing (COMP)](https://w
 My research interests currently focus on Retrieval-Augmented Generation (RAG) on graphs, Large Language Models (LLM).
 
 # 🔥 News
+- *2026.01*: One first-author paper is accepted by TheWebConf (WWW) 2026! 🎉
 - *2024.01*: One co-author paper is accepted by IEEE ICRA 2024! 🎉
 - *2023.10*: I am awarded a China postgraduate national scholarship (Top 1.67%, 20, 000 CNY)! 🏆
 - *2023.05*: One first-author paper is accepted by IEEE TIM (JCR Q1, IF-5.6)! 🎉
@@ -41,45 +42,11 @@ My research interests currently focus on Retrieval-Augmented Generation (RAG) on
 
 
 # 📝 Publications
-## 📌 Pinned
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='images/Triplet-SA.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[A Deep Learning Method Based on Triplet Network Using Self-Attention for Tactile Grasp Outcomes Prediction](https://ieeexplore.ieee.org/document/10152475)(First-author, JCR Q1, IF-5.6)
-
-**Chengliang Liu**, Zhengkun Yi, Binhua Huang, Zhenning Zhou, Senlin Fang, Xiaoyu Li, Yupo Zhang, Xinyu Wu.
-
-**<font color=red>IEEE Transactions on Instrumentation and Measurement</font>** 
-
-- Investigate contrastive learning using triplet loss in a supervised manner for grasp outcome prediction in a small Gelsight-based tactile dataset.
-- Integrate cross self-attention mechanisms with triplet net to exploit context information from different sensors.
-- Found that a self-attention module can work as a non-linear projection head for contrastive learning, which performs better than a simple MLP.
-- The experimental results demonstrate significant performance improvements in various metrics when using our framework, compared to the original method.
-
-</div>
-</div>
-
----
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RCAR 2023</div><img src='images/MoCo-Gelsight.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Self-supervised Contrastive Learning Method for Grasp Outcomes Prediction](https://ieeexplore.ieee.org/document/10249649)(First-author)
-
-**Chengliang Liu**, Binhua Huang, Yiwen Liu, Yuanzhe Su, Ke Mai, Yupo Zhang, Zhengkun Yi, Xinyu Wu
-
-**<font color=red>2023 IEEE International Conference on Real-time Computing and Robotics</font>** 
-
-- Explore and verify the transferability of widely-applied data augmentation techniques in the field of Computer Vision to Gelsight-based tactile datasets.
-- A grasp outcome prediction network was proposed based on momentum contrast with the maintenance of a large dictionary, which achieves 81.83% predictive accuracy with a single tactile sensor data.
-- The experimental results show that the proposed network achieved state-of-the-art performance compared to three other self-supervised methods.
-
-</div>
-</div>
-
-## 🔎 Other
-
-- Probabilistic Spiking Neural Network for Robotic Tactile Continual Learning, Senlin Fang, Yiwen Liu, **Chengliang Liu**, Jingnan Wang, Yuanzhe Su, Yupo Zhang, Hoiio Kong, Zhengkun Yi, Xinyu Wu, 2024 IEEE International Conference on Robotics and Automation (ICRA, accepted)
+- Inference Cost Attacks for Retrieval-Augmented Large Language Models, **Chengliang Liu**, Liangbo Ning, Yujuan Ding, Wenqi Fan, TheWebConf (WWW) 2026
+- [A Deep Learning Method Based on Triplet Network Using Self-Attention for Tactile Grasp Outcomes Prediction](https://ieeexplore.ieee.org/document/10152475), **Chengliang Liu**, Zhengkun Yi, Binhua Huang, Zhenning Zhou, Senlin Fang, Xiaoyu Li, Yupo Zhang, Xinyu Wu, IEEE Transactions on Instrumentation and Measurement (TIM, JCR Q1, IF-5.6)
+- [A Self-supervised Contrastive Learning Method for Grasp Outcomes Prediction](https://ieeexplore.ieee.org/document/10249649), **Chengliang Liu**, Binhua Huang, Yiwen Liu, Yuanzhe Su, Ke Mai, Yupo Zhang, Zhengkun Yi, Xinyu Wu, 2023 IEEE International Conference on Real-time Computing and Robotics (RCAR)
+- [Probabilistic Spiking Neural Network for Robotic Tactile Continual Learning](https://ieeexplore.ieee.org/document/10610553), Senlin Fang, Yiwen Liu, **Chengliang Liu**, Jingnan Wang, Yuanzhe Su, Yupo Zhang, Hoiio Kong, Zhengkun Yi, Xinyu Wu, 2024 IEEE International Conference on Robotics and Automation (ICRA)
 - [Evaluation of Continual Learning Methods for Object Hardness Recognition](https://ieeexplore.ieee.org/document/10249594), Yiwen Liu, Senlin Fang, **Chengliang Liu**, Jingnan Wang, Ke Mai, Yupo Zhang, Zhengkun Yi, Xinyu Wu, 2023 IEEE International Conference on Real-time Computing and Robotics (RCAR)
 - [Attention-enhanced BLSTM Network for Liquid Volume Estimation based on Tactile Sensing](https://ieeexplore.ieee.org/document/10250000/), Yuanzhe Su, Jingnan Wang, Binhua Huang, Xiaoyu Li, Yiwen Liu, **Chengliang Liu**, Zhenning Zhou, Zhengkun Yi, Xinyu Wu, 2023 IEEE International Conference on Real-time Computing and Robotics (RCAR)
 - [TGCN-P: A TCN-GCN Network With Weighted Graph Constructed by Pearson Correlation Coefficient for Human Motion Tracking](https://ieeexplore.ieee.org/document/10249259/), Xiaoyu Li, Jingnan Wang, Binhua Huang, **Chengliang Liu**, Yiwen Liu, Yupo Zhang, Zhengkun Yi, Xinyu Wu, 2023 IEEE International Conference on Real-time Computing and Robotics (RCAR)
@@ -88,11 +55,6 @@ My research interests currently focus on Retrieval-Augmented Generation (RAG) on
 - [Tactile Grasp Stability Classification Based on Graph Convolutional Networks](https://ieeexplore.ieee.org/document/9517085), Tingting Mi, Dashun Que, Senlin Fang, Zhenning Zhou, Chaoxiang Ye, **Chengliang Liu**, Zhengkun Yi, Xinyu Wu, 2021 IEEE International Conference on Real-time Computing and Robotics (RCAR)
 
 # 👨‍💻 Experience
-<!-- - *2023.04 - now* &ensp; Research Intern, [Tencent YouTu Lab](https://open.youtu.qq.com/), Shenzhen, China
-- *2022.07 - 2023.01* &ensp; Research Intern, [Zhejiang Lab](https://en.zhejianglab.com/), Hangzhou, China
-- *2021.03 - 2021.08* &ensp; Research Assistant, [SIAT](https://english.siat.ac.cn/), Shenzhen, China
-- *2019.08 - 2020.01* &ensp; Entrepreneurial Intern, [XbotPark](http://www.xbotpark.com/?lang=en), Dongguan, China -->
-
 ---
 
 <div class='exp-box'><div class='exp-box-image'><div><img src='images/logo_SIAT_CAS.png' alt="sym" width="100%"></div></div>
