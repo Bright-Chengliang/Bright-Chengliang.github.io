@@ -25,20 +25,20 @@ My research interests currently focus on Retrieval-Augmented Generation (RAG), T
 # 🔥 News
 - *2026.01*: One first-author paper is accepted by TheWebConf (WWW) 2026! 🎉
 - *2024.01*: One co-author paper is accepted by IEEE ICRA 2024! 🎉
-- *2023.10*: I am awarded a China postgraduate national scholarship (Top 1.67%, 20, 000 CNY)! 🏆
-- *2023.05*: One first-author paper is accepted by IEEE TIM (JCR Q1, IF-5.6)! 🎉
+- *2023.10*: I am awarded a China postgraduate national scholarship! 🏆
+- *2023.05*: One first-author paper is accepted by IEEE TIM! 🎉
 - *2023.04*: One first-author paper is accepted by IEEE RCAR 2023! 🎉
-- *2022.07*: I am honored with the title of Outstanding Student Leader of [UCAS](https://english.ucas.ac.cn/) (Top 5%)! 🏅
-- *2022.07*: I am honored with the title of Three Good Student of [UCAS](https://english.ucas.ac.cn/) (Top 15%)! 🏅
-- *2021.05*: I am honored with the title of Outstanding Graduate of [CSU](https://en.csu.edu.cn/) (Top 4%)! 🏅
-- *2021.05*: I am honored with the title of Outstanding Graduate of Hunan Province (Top 3.5%)! 🏅
+- *2022.07*: I am honored with the title of Outstanding Student Leader of [UCAS](https://english.ucas.ac.cn/)! 🏅
+- *2022.07*: I am honored with the title of Three Good Student of [UCAS](https://english.ucas.ac.cn/)! 🏅
+- *2021.05*: I am honored with the title of Outstanding Graduate of [CSU](https://en.csu.edu.cn/)! 🏅
+- *2021.05*: I am honored with the title of Outstanding Graduate of Hunan Province! 🏅
 - *2021.03*: I have joined [SIAT, CAS](https://english.siat.ac.cn/) as a research assistant and will spend my final undergraduate year here! 🔬
-- *2020.12*: I am awarded a Shanhe Elite First-class Education Scholarship (10, 000 CNY)! 🏆
-- *2020.11*: I am awarded a [CSU](https://en.csu.edu.cn/) Second-Class Excellent Student Scholarship (Top 15%)! 🏆
+- *2020.12*: I am awarded a Shanhe Elite First-class Education Scholarship! 🏆
+- *2020.11*: I am awarded a [CSU](https://en.csu.edu.cn/) Second-Class Excellent Student Scholarship! 🏆
 - *2020.09*: I acquire a qualification of postgraduate recommendation, and decide to pursue my master’s degree in [UCAS](https://english.ucas.ac.cn/)! 👨‍🎓
-- *2019.12*: I am awarded a Weiqiao Aluminum Electricity Scholarship (5, 000 CNY)! 🏆
-- *2019.11*: I am awarded a [CSU](https://en.csu.edu.cn/) First-Class Excellent Student Scholarship (Top 5%)! 🏆
-- *2018.11*: I am awarded a [CSU](https://en.csu.edu.cn/) Second-Class Excellent Student Scholarship (Top 15%)! 🏆
+- *2019.12*: I am awarded a Weiqiao Aluminum Electricity Scholarship! 🏆
+- *2019.11*: I am awarded a [CSU](https://en.csu.edu.cn/) First-Class Excellent Student Scholarship! 🏆
+- *2018.11*: I am awarded a [CSU](https://en.csu.edu.cn/) Second-Class Excellent Student Scholarship! 🏆
 
 
 # 📝 Publications
@@ -75,17 +75,17 @@ My research interests currently focus on Retrieval-Augmented Generation (RAG), T
 
 # 🏆 Selected Awards
 - *2024.02* &ensp; SIAT President’s Special Scholarship
-- *2023.10* &ensp; [China postgraduate national scholarship](./honors/China_postgraduate_national_scholarship.jpg) (Top 1.67%, 20, 000 CNY)
-- *2021 - 2024* &ensp; UCAS Postgraduate Fellowship (Full Tuition Waiver & 8,000 CNY p.a.)
-- *2020.12* &ensp; [Shanhe Elite First-class Education Scholarship (10,000 CNY)](./honors/Shanhe_Elite-Scholarship-2020.12.06.jpg)
-- *2020.11* &ensp; [Second-Class Excellent Student Scholarship (Top 15%)](./honors/CSU-Second_Class_Scholarship-2020.11.jpg)
-- *2019.12* &ensp; [Weiqiao Aluminum Electricity Scholarship (5, 000 CNY)](./honors/Weiqiao-Scholarship-2019.12.jpg)
-- *2019.11* &ensp; [First-Class Excellent Student Scholarship (Top 5%)](./honors/CSU-First_Class_Scholarship-2019.11.jpg)
-- *2018.11* &ensp; [Second-Class Excellent Student Scholarship (Top 15%)](./honors/CSU-Second_Class_Scholarship-2018.11.jpg)
+- *2023.10* &ensp; China postgraduate national scholarship
+- *2021 - 2024* &ensp; UCAS Postgraduate Fellowship
+- *2020.12* &ensp; Shanhe Elite First-class Education Scholarship
+- *2020.11* &ensp; Second-Class Excellent Student Scholarship
+- *2019.12* &ensp; Weiqiao Aluminum Electricity Scholarship
+- *2019.11* &ensp; First-Class Excellent Student Scholarship
+- *2018.11* &ensp; Second-Class Excellent Student Scholarship
 
 # 🏅 Selected Honors
-- *2022.07* &ensp; [Outstanding Student Leader of University of Chinese Academy of Sciences (Top 5%)](./honors/UCAS-Outstanding_student_leader-2022.07.jpg)
-- *2022.07* &ensp; [Three Good Student of University of Chinese Academy of Sciences (Top 15%)](./honors/UCAS-Three_Good-2022.07.jpg)
-- *2021.05* &ensp; [Outstanding Graduate of Central South University (Top 4%)](./honors/CSU-Outstanding_Graduate-2021.05.jpg)
-- *2021.05* &ensp; [Outstanding Graduate of Hunan Province (Top 3.5%)](./honors/Hunan_Province-Outstanding_Graduate-2021.05.jpg)
-- *2018 - 2020* &ensp; Merit Student of Central South University (Top 15%, Three Times, Academic Year: [2017-2018](./honors/CSU-Merit_Student-2019.01.jpg), [2018-2019](./honors/CSU-Merit_Student-2019.12.jpg), [2019-2020](./honors/CSU-Merit_Student-2020.12.jpg))
+- *2022.07* &ensp; Outstanding Student Leader of University of Chinese Academy of Sciences
+- *2022.07* &ensp; Three Good Student of University of Chinese Academy of Sciences
+- *2021.05* &ensp; Outstanding Graduate of Central South University
+- *2021.05* &ensp; Outstanding Graduate of Hunan Province
+- *2018 - 2020* &ensp; Merit Student of Central South University
