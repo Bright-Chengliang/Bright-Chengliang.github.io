@@ -20,7 +20,7 @@ redirect_from:
 
 I am currently a Ph.D. student at the [Department of Computing (COMP)](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/) <img src='images/logo_PolyU.webp' style='width: 1.1em;'>, supervised by [IEEE Fellow Prof. Qing Li](https://scholar.google.com/citations?user=D1LEg-YAAAAJ), co-supervised by [Prof. Wenqi Fan](https://scholar.google.com/citations?user=SQ9UbHIAAAAJ). I obtained a master's degree at the [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) <img src='images/logo_UCAS.png' style='width: 1.1em;'> ([learn more about UCAS](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences)) under the supervision of [Prof. Xinyu Wu](https://people.ucas.ac.cn/~wuxinyu?language=en) and [Prof. Zhengkun Yi](https://people.ucas.ac.cn/~zhengkunyi?language=en). Before that, I graduated from the School of Mechanical and Electrical Engineering, [Central South University (CSU)](https://en.csu.edu.cn/), [Project 985](https://en.wikipedia.org/wiki/Project_985), [Project 211](https://en.wikipedia.org/wiki/Project_211) <img src='images/logo_CSU.jpg' style='width: 1.1em;'> with a bachelor’s degree.
 
-My research interests currently focus on Retrieval-Augmented Generation (RAG) on graphs, Large Language Models (LLM).
+My research interests currently focus on Retrieval-Augmented Generation (RAG), TrustWorthy AI, Large Language Models (LLM).
 
 # 🔥 News
 - *2026.01*: One first-author paper is accepted by TheWebConf (WWW) 2026! 🎉
