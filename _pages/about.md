@@ -43,7 +43,7 @@ My research interests currently focus on Retrieval-Augmented Generation (RAG), T
 
 # 📝 Publications
 
-- [Inference Cost Attacks for Retrieval-Augmented Large Language Models](https://dl.acm.org/doi/10.1145/3774904.3792683), **Chengliang Liu**, Liangbo Ning, Yujuan Ding, Wenqi Fan, TheWebConf (WWW) 2026
+- [Inference Cost Attacks for Retrieval-Augmented Large Language Models](https://dl.acm.org/doi/10.1145/3774904.3792683), **Chengliang Liu**<sup>*</sup>, Liangbo Ning<sup>*</sup>, Yujuan Ding, Wenqi Fan, TheWebConf (WWW) 2026
 - [A Deep Learning Method Based on Triplet Network Using Self-Attention for Tactile Grasp Outcomes Prediction](https://ieeexplore.ieee.org/document/10152475), **Chengliang Liu**, Zhengkun Yi, Binhua Huang, Zhenning Zhou, Senlin Fang, Xiaoyu Li, Yupo Zhang, Xinyu Wu, IEEE Transactions on Instrumentation and Measurement (TIM)
 - [A Self-supervised Contrastive Learning Method for Grasp Outcomes Prediction](https://ieeexplore.ieee.org/document/10249649), **Chengliang Liu**, Binhua Huang, Yiwen Liu, Yuanzhe Su, Ke Mai, Yupo Zhang, Zhengkun Yi, Xinyu Wu, 2023 IEEE International Conference on Real-time Computing and Robotics (RCAR)
 - [Probabilistic Spiking Neural Network for Robotic Tactile Continual Learning](https://ieeexplore.ieee.org/document/10610553), Senlin Fang, Yiwen Liu, **Chengliang Liu**, Jingnan Wang, Yuanzhe Su, Yupo Zhang, Hoiio Kong, Zhengkun Yi, Xinyu Wu, 2024 IEEE International Conference on Robotics and Automation (ICRA)
@@ -53,6 +53,8 @@ My research interests currently focus on Retrieval-Augmented Generation (RAG), T
 - [Methods to Recognize Depth of Hard Inclusions in Soft Tissue Using Ordinal Classification for Robotic Palpation](https://ieeexplore.ieee.org/document/9856694), Zhenning Zhou, Binhua Huang, Runzhi Zhang, Meng Yin, **Chengliang Liu**, Yiwen Liu, Zhengkun Yi, Xinyu Wu, IEEE Transactions on Instrumentation and Measurement (TIM, JCR Q1, IF-5.6), 2022
 - [TactCapsNet: Tactile Capsule Network for Object Hardness Recognition](https://ieeexplore.ieee.org/document/9517551), Senlin Fang, Tingting Mi, Zhenning Zhou, Chaoxiang Ye, **Chengliang Liu**, Hancheng Wu, Zhengkun Yi, Xinyu Wu, 2021 IEEE International Conference on Real-time Computing and Robotics (RCAR)
 - [Tactile Grasp Stability Classification Based on Graph Convolutional Networks](https://ieeexplore.ieee.org/document/9517085), Tingting Mi, Dashun Que, Senlin Fang, Zhenning Zhou, Chaoxiang Ye, **Chengliang Liu**, Zhengkun Yi, Xinyu Wu, 2021 IEEE International Conference on Real-time Computing and Robotics (RCAR)
+
+<sup>*</sup> Equal contribution.
 
 # 👨‍💻 Experience
 ---
