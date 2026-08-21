@@ -54,7 +54,6 @@ My research interests currently focus on Retrieval-Augmented Generation (RAG), T
 - [TactCapsNet: Tactile Capsule Network for Object Hardness Recognition](https://ieeexplore.ieee.org/document/9517551), Senlin Fang, Tingting Mi, Zhenning Zhou, Chaoxiang Ye, **Chengliang Liu**, Hancheng Wu, Zhengkun Yi, Xinyu Wu, 2021 IEEE International Conference on Real-time Computing and Robotics (RCAR)
 - [Tactile Grasp Stability Classification Based on Graph Convolutional Networks](https://ieeexplore.ieee.org/document/9517085), Tingting Mi, Dashun Que, Senlin Fang, Zhenning Zhou, Chaoxiang Ye, **Chengliang Liu**, Zhengkun Yi, Xinyu Wu, 2021 IEEE International Conference on Real-time Computing and Robotics (RCAR)
 
-<sup>*</sup> Equal contribution.
 
 # 👨‍💻 Experience
 ---
