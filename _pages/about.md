@@ -23,6 +23,7 @@ I am currently a Ph.D. student at the [Department of Computing (COMP)](https://w
 My research interests currently focus on Retrieval-Augmented Generation (RAG), TrustWorthy AI, Large Language Models (LLM).
 
 # 🔥 News
+- *2026.08*: Our new preprint, [From Solo Control to Enterprise Scale Through Agentic AI: A Survey of One-Person Agentic Company (OPAC)](https://www.preprints.org/manuscript/202608.1414), is now available on Preprints.org. 📄
 - *2026.01*: One first-author paper is accepted by TheWebConf (WWW) 2026! 🎉
 - *2024.01*: One co-author paper is accepted by IEEE ICRA 2024! 🎉
 - *2023.10*: I am awarded a China postgraduate national scholarship! 🏆
